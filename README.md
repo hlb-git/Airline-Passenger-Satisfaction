@@ -11,6 +11,7 @@ Link to tableau public: [Tableau](https://public.tableau.com/app/profile/love.om
 
 ## Snippets: 
 
-![1](https://user-images.githubusercontent.com/93451988/224285103-846228a6-ec2f-4783-9b80-4ff3d0d07687.png)
+![1](https://user-images.githubusercontent.com/93451988/224287337-60ef0c78-0a86-4a63-84bf-438309a71cd5.png)
+
 
 ![3](https://user-images.githubusercontent.com/93451988/224285151-8b372135-1658-4266-8cdc-9f89702a4461.png)
