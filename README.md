@@ -2,7 +2,7 @@
 
 This project is about customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
-The dataset was cleaned, transformed and visualised in tableau. Business insights were extracted from the data and important recomendations were also made to improve the airline further.
+The dataset was cleaned, transformed and visualised in tableau. Business insights were extracted from the data and important recommendations were also made to improve the airline further.
 
 Data source: [Maven Analytics](https://www.mavenanalytics.io/data-playground)
 
