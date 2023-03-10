@@ -6,11 +6,11 @@ The dataset was cleaned, transformed and visualised in tableau. Business insight
 
 Data source: [Maven Analytics](https://www.mavenanalytics.io/data-playground)
 
-Link to tableau public: [Tableau](https://public.tableau.com/app/profile/love.omoseebi)
+Link to tableau public: [Tableau](https://public.tableau.com/app/profile/love.omoseebi/viz/AirlinePassengerSatisfaction_16782300992490/MainDashboard)
 
 
 ## Snippets: 
 
-![1](https://user-images.githubusercontent.com/93451988/224267014-62f14786-6152-4bbf-bc39-d7a20d406171.png)
+![1](https://user-images.githubusercontent.com/93451988/224285103-846228a6-ec2f-4783-9b80-4ff3d0d07687.png)
 
-![3](https://user-images.githubusercontent.com/93451988/224267222-401c80f7-4bb6-4057-958c-36d8445289ad.png)
+![3](https://user-images.githubusercontent.com/93451988/224285151-8b372135-1658-4266-8cdc-9f89702a4461.png)
